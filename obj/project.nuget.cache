@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CU8H5Ersp3w=",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/dev_web/hexagone/cours/C#/appBooks/appBooks/appBooks/appBooks.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
